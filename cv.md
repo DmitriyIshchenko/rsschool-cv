@@ -6,6 +6,10 @@
 * **Telegram:** https://t.me/DmitryIshchenko
 * **Discord:** dmitriy.ishchenko#9612
 
+## About me
+
+I love seeing the results of my work in the form of beautiful websites, so I decided to become a frontend developer. I hope to work on some big cool projects one day!
+
 ## Skills
 
 * JavaScript
