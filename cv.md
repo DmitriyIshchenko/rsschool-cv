@@ -54,3 +54,9 @@ I have no commercial experience, but here are some of my learning projects:
 * Voronezh State University, Faculty of Computer Sciences
 * [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
 * [Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+
+## Languages
+
+* English - A2
+* Russian - Native
+* Ukranian - Native
