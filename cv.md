@@ -48,3 +48,9 @@ function formatDuration (seconds) {
 I have no commercial experience, but here are some of my learning projects:
 
 * Todo list: https://to-do-list-ishchenko.netlify.app/
+
+## Education
+
+* Voronezh State University, Faculty of Computer Sciences
+* [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/)
+* [Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
