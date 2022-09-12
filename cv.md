@@ -42,3 +42,9 @@ function formatDuration (seconds) {
   return `${res.slice(0, -1).join(', ')} and ${res.slice(-1)}`
 }
 ```
+
+## Experience
+
+I have no commercial experience, but here are some of my learning projects:
+
+* Todo list: https://to-do-list-ishchenko.netlify.app/
