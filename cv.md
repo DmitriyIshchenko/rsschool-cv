@@ -1,4 +1,4 @@
-# Dmitriy Ishcnenko
+# Dmitriy Ishchenko
 
 ## Contacts
 
@@ -59,4 +59,4 @@ I have no commercial experience, but here are some of my learning projects:
 
 * English - A2
 * Russian - Native
-* Ukranian - Native
+* Ukrainian - Native
